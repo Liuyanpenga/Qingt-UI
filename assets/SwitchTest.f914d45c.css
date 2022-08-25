@@ -1,0 +1,1 @@
+.Qt-switch{height:22px;width:44px;border:none;background:gray;border-radius:11px;position:relative;margin-right:20px;cursor:pointer}.Qt-switch>span{position:absolute;top:2px;left:2px;height:18px;width:18px;background:white;border-radius:9px;transition:left .25s}.Qt-switch.Qt-checked{background:pink}.Qt-switch.Qt-checked>span{left:calc(100% - 20px)}
